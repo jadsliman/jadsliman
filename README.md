@@ -4,7 +4,7 @@
 
 🎮 Game developer
 
-🌐 Front-End developer
+🌐 Front-end developer
 
 I build games with Unity and C#, and web applications with HTML, CSS, JS and Electron.
 
