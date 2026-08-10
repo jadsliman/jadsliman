@@ -16,3 +16,10 @@ I build games with Unity and C#, and web applications with HTML, CSS, JS and Ele
 [Faouzia Player](https://github.com/jadsliman/faouzia-player-desktop-app.git)
 
 ## 🌐 Websites
+[My First Project](https://github.com/jadsliman/first-front-end-project.git)
+[Task Manager](https://github.com/jadsliman/task-manager-front-end-project.git)
+[Gaming Zone](https://github.com/jadsliman/gaming-zone-front-end-project.git)
+[Index Runner](https://github.com/jadsliman/index-runner-web-game.git)
+
+## 👨🏻‍💻 Others
+[Java Storage Manager]()
