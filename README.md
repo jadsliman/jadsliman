@@ -22,4 +22,12 @@ I build games with Unity and C#, and web applications with HTML, CSS, JS and Ele
 [Index Runner](https://github.com/jadsliman/index-runner-web-game.git)
 
 ## 👨🏻‍💻 Others
-[Java Storage Manager]()
+[Storage and Production Managing System](https://github.com/jadsliman/Storage-and-Production-managing-system.git)
+[Library Managing System](https://github.com/jadsliman/LibraryMS.git)
+
+## 🛠️ Skills
+- Unity / C#
+- HTML / CSS / JS
+- Electron.js
+- Java (OOP)
+- GIT
