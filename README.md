@@ -2,9 +2,9 @@
 
 📕 Computer science engineering student
 
-🎮 Game Developer
+🎮 Game developer
 
-🌐 Front-End Developer
+🌐 Front-End developer
 
 I build games with Unity and C#, and web applications with HTML, CSS, JS and Electron.
 
