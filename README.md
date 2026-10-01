@@ -21,6 +21,8 @@ I build games with Unity and C#, and web applications with HTML, CSS, JS and Ele
 [Faouzia Player](https://github.com/jadsliman/faouzia-player-desktop-app.git)
 
 ## 🌐 Websites
+[Jad's Design Portfolio](https://github.com/jadsliman/jad-s-design-portfolio)
+
 [My First Project](https://github.com/jadsliman/first-front-end-project.git)
 
 [Task Manager](https://github.com/jadsliman/task-manager-front-end-project.git)
@@ -39,6 +41,7 @@ I build games with Unity and C#, and web applications with HTML, CSS, JS and Ele
 ## 🛠️ Skills
 - Unity / C#
 - HTML / CSS / JS
+- React.js
 - Electron.js
 - Java (OOP)
 - GIT
