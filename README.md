@@ -42,6 +42,7 @@ I build games with Unity and C#, and web applications with HTML, CSS, JS and Ele
 - Unity / C#
 - HTML / CSS / JS
 - React.js
+- TypeScript
 - Electron.js
 - Java (OOP)
 - GIT
